@@ -27,5 +27,8 @@
     <ClCompile Include="calc.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="sum_calc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
