@@ -27,5 +27,8 @@
     <ClCompile Include="8bit_16bit.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="two%27s_complement.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
