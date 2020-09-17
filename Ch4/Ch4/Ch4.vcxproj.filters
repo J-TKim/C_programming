@@ -30,5 +30,8 @@
     <ClCompile Include="two%27s_complement.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="floating.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
