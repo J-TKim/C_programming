@@ -18,5 +18,8 @@
     <ClCompile Include="circle_area.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="size_of_type.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
