@@ -1,5 +1,2 @@
-﻿  underflow.c
-C:\Users\JT\Documents\GitHub\C_programming\Ch4\Ch4\underflow.c(4,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\JT\Documents\GitHub\C_programming\Ch4\Ch4\underflow.c(5,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\JT\Documents\GitHub\C_programming\Ch4\Ch4\underflow.c(6,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+﻿  floating_error.c
   Ch4.vcxproj -> C:\Users\JT\Documents\GitHub\C_programming\Ch4\Debug\Ch4.exe

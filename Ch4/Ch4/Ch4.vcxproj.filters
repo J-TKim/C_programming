@@ -36,5 +36,8 @@
     <ClCompile Include="underflow.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="floating_error.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
