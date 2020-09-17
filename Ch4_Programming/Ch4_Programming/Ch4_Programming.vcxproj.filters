@@ -24,5 +24,8 @@
     <ClCompile Include="Programming_6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Programming_8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
