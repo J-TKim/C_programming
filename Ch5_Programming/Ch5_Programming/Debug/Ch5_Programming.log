@@ -1,0 +1,6 @@
+﻿  Programming_11.c
+C:\Users\JT\Documents\GitHub\C_programming\Ch5_Programming\Ch5_Programming\Programming_11.c(8,8): warning C4477: 'scanf' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+C:\Users\JT\Documents\GitHub\C_programming\Ch5_Programming\Ch5_Programming\Programming_11.c(8,8): message : 서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+C:\Users\JT\Documents\GitHub\C_programming\Ch5_Programming\Ch5_Programming\Programming_11.c(11,8): warning C4477: 'scanf' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+C:\Users\JT\Documents\GitHub\C_programming\Ch5_Programming\Ch5_Programming\Programming_11.c(11,8): message : 서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+  Ch5_Programming.vcxproj -> C:\Users\JT\Documents\GitHub\C_programming\Ch5_Programming\Debug\Ch5_Programming.exe
