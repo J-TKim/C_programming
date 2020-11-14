@@ -1,0 +1,4 @@
+﻿  14.c
+C:\Users\JT\Documents\GitHub\C_programming\Ch10_Programming\Ch10_Programming\14.c(8,10): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\JT\Documents\GitHub\C_programming\Ch10_Programming\Ch10_Programming\14.c(12,22): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Ch10_Programming.vcxproj -> C:\Users\JT\Documents\GitHub\C_programming\Ch10_Programming\Debug\Ch10_Programming.exe
