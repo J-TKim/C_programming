@@ -33,6 +33,8 @@ int main(void) {
 		else if (c == 5) printf("%d", x1 % x2);
 
 		printf("\n계속하려면 y를 누르시오: ");
+		int i;
+		scanf("%d", &i);
 		char c1 = getchar();
 		if (c1 != 'y')
 			break;

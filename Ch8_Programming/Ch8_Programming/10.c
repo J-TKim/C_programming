@@ -13,7 +13,7 @@ int main(void)
 
 	while (1) {
 		printf("앞면 또는 뒷면(1 또는 0):");
-		scanf("%d", &inp);
+		scanf(" %d", &inp);
 
 		if (inp == b_rand())
 			printf("맞았습니다.\n");
@@ -21,6 +21,8 @@ int main(void)
 			printf("틀렸습니다.\n");
 
 		printf("계속하시겠습니다?(y 또는 n):");
+		int i;
+		scanf("%d", &i);
 		char c1 = getchar();
 
 		if (c1 == 'n')
