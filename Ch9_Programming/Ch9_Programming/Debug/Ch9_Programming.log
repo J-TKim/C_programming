@@ -1,0 +1,3 @@
+﻿  12.c
+C:\Users\JT\Documents\GitHub\C_programming\Ch9_Programming\Ch9_Programming\12.c(10): warning C4715: 'fib': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Ch9_Programming.vcxproj -> C:\Users\JT\Documents\GitHub\C_programming\Ch9_Programming\Debug\Ch9_Programming.exe
