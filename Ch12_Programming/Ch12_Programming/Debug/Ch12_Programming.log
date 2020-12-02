@@ -1,0 +1,8 @@
+﻿  16.c
+C:\Users\JT\Documents\GitHub\C_programming\Ch12_Programming\Ch12_Programming\16.c(17,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\JT\Documents\GitHub\C_programming\Ch12_Programming\Ch12_Programming\16.c(18,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\JT\Documents\GitHub\C_programming\Ch12_Programming\Ch12_Programming\16.c(20,12): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\JT\Documents\GitHub\C_programming\Ch12_Programming\Ch12_Programming\16.c(12,16): warning C4101: 'ch2' :참조되지 않은 지역 변수입니다.
+C:\Users\JT\Documents\GitHub\C_programming\Ch12_Programming\Ch12_Programming\16.c(12,7): warning C4101: 'ch1' :참조되지 않은 지역 변수입니다.
+C:\Users\JT\Documents\GitHub\C_programming\Ch12_Programming\Ch12_Programming\16.c(9,8): warning C4101: 'ptr' :참조되지 않은 지역 변수입니다.
+  Ch12_Programming.vcxproj -> C:\Users\JT\Documents\GitHub\C_programming\Ch12_Programming\Debug\Ch12_Programming.exe
