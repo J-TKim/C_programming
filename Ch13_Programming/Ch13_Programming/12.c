@@ -20,9 +20,6 @@ void init_card(Card pack[], char shape[]);
 
 void print_card(Card pack[], int size);
 
-void shuf_card(Card pack[], int size);
-
-
 
 void main() {
 
