@@ -1,0 +1,3 @@
+﻿  12.c
+C:\Users\JT\Documents\GitHub\C_programming\Ch13_Programming\Ch13_Programming\12.c(73,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  Ch13_Programming.vcxproj -> C:\Users\JT\Documents\GitHub\C_programming\Ch13_Programming\Debug\Ch13_Programming.exe
