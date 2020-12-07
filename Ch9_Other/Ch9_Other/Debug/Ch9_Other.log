@@ -1,0 +1,4 @@
+﻿  rotete.c
+C:\Users\JT\Documents\GitHub\C_programming\Ch9_Other\Ch9_Other\rotete.c(30,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\JT\Documents\GitHub\C_programming\Ch9_Other\Ch9_Other\rotete.c(32,12): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+  Ch9_Other.vcxproj -> C:\Users\JT\Documents\GitHub\C_programming\Ch9_Other\Debug\Ch9_Other.exe
